@@ -1,4 +1,4 @@
-# Organizador de Declaração de Imposto de Renda – Excel com IA
+# Ferramenta de Controle de Investimentos – Excel com IA
 
 ## Descrição
 Planilha criada como parte do bootcamp Santander - Excel com Inteligência Artificial.  
